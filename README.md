@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hey there, I'm Arda 👋
 
-<!--
-**ardacatalkaya/ardacatalkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer from Turkey.
 
-Here are some ideas to get you started:
+This is a fresh profile where I'll be uploading smaller projects, experiments, and things I'm currently working on.  
+Everything here is built from scratch — no copy-paste templates.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- Interested in software development, web/mobile apps, automation, and useful tools
+- I enjoy building things that make life easier
+- This profile is where I share my progress, experiments, and personal projects
+
+---
+
+## 🌱 Currently Learning
+
+- Python projects
+- Computer Science with CS50 & CS106A lectures
+- Software development fundamentals
+- Building real-world projects from scratch
+
+---
+
+## 📌 What You'll Find Here
+
+- Small projects
+- Practice repositories
+- Experiments
+- Things I build while learning
+- Projects that solve simple real-life problems
+
+---
