@@ -17,7 +17,7 @@ Everything here is built from scratch — no copy-paste templates.
 
 ## 🌱 Currently Learning
 
-- Python projects
+- Python
 - Computer Science with CS50 & CS106A lectures
 - Software development fundamentals
 - Building real-world projects from scratch
